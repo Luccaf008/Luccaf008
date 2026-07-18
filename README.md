@@ -1,30 +1,19 @@
-# 👋 Olá! Eu sou o Lucca
+🛠️ Tecnologias e Ferramentas
 
-## Sobre Mim
+- Controle de Versão: Git e GitHub
 
-Sou Lucca, um desenvolvedor iniciante com interesse em Python e Java. Estou começando minha jornada na programação e estou animado para aprender e crescer na área. 🚀
+📫 Contato
 
-## Habilidades
+- GitHub: "github.com/Luccaf008" (https://github.com/Luccaf008) 💻
+- E-mail: luccacanto1310@gmail.com 📧
 
-- **Linguagens de Programação:**
-  - 🐍 Python
-  - ☕ Java
+🚀 Interesses
 
-- **Desenvolvimento:**
-  - Programação geral e resolução de problemas
-
-- **Controle de Versão:**
-  - Git, GitHub
-
-## Contato
-
-- **GitHub:** https://github.com/Luccaf008 💻
-- **Email:** luccacanto1310@gmail.com 📧
-
-## Interesses
-
-- 💡 Desenvolvimento de Software
+- Desenvolvimento de Software
+- Desenvolvimento Back-end
+- Aprendizado contínuo e novas tecnologias
+- Projetos de código aberto (Open Source)
 
 ---
 
-Estou aberto a novas oportunidades e sempre pronto para aprender mais sobre programação. Sinta-se à vontade para me contatar! 😄
+💼 Estou em constante evolução como desenvolvedor, buscando aprender novas tecnologias, aprimorar minhas habilidades e participar de projetos que gerem impacto. Se quiser trocar ideias, colaborar em projetos ou entrar em contato, ficarei feliz em conversar!
